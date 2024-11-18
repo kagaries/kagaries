@@ -7,4 +7,4 @@ I am the creator of Kaizo Edition, and work with Java.
 
 ## Projects
 
-[![Kaizo Edition](https://github-readme-stats.vercel.app/api/pin/?username=kaizo-edition&repo=kaizo-edition-public)](https://github.com/kaizo-edition/kaizo-edition-public)
+[![Kaizo Edition](https://github-readme-stats.vercel.app/api/pin/?username=kaizo-edition&repo=kaizo-edition-public&theme=dark)](https://github.com/kaizo-edition/kaizo-edition-public)
