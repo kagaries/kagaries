@@ -7,4 +7,4 @@ I am the creator of Kagaries Edition, and work with Java.
 
 ## Projects
 
-[![Kaizo Edition](https://github-readme-stats.vercel.app/api/pin/?username=kagaries-edition&repo=kagaries-edition-public&theme=dark)](https://github.com/kagaries-edition/kagaries-edition-public)
+[![Magia Edition](https://github-readme-stats.vercel.app/api/pin/?username=magia-edition&repo=magia-edition-public&theme=dark)](https://github.com/magia-edition/magia-edition-public)
