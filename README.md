@@ -8,5 +8,5 @@ I am the creator of Magia Edition, and work with Java.
 ## Projects
 
 [![Magia Edition](https://github-readme-stats.vercel.app/api/pin/?username=kagaries&repo=magia-edition-public&theme=dark)](https://github.com/kagaries/magia-edition-public)
-[![ME-Fabric](https://github-readme-stats.vercel.app/api/pin/?username=kagaries&repo=magia-edition-fabric&theme=dark)](https://github.com/kagaries/magia-edition-fabric)
 [![MCPRWiki](https://github-readme-stats.vercel.app/api/pin/?username=kagaries&repo=MCPRWiki&theme=dark)](https://github.com/kagaries/MCPRWiki)
+[![Marle-Rust](https://github-readme-stats.vercel.app/api/pin/?username=kagaries&repo=Marle-Rust&theme=dark)](https://github.com/kagaries/Marle-Rust)
