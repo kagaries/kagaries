@@ -7,6 +7,4 @@ I work with a couple things for fun.
 
 ## Projects
 
-[![Magia Edition](https://github-readme-stats.vercel.app/api/pin/?username=kagaries&repo=magia-edition-public&theme=dark)](https://github.com/kagaries/magia-edition-public)
 [![MCPRWiki](https://github-readme-stats.vercel.app/api/pin/?username=kagaries&repo=MCPRWiki&theme=dark)](https://github.com/kagaries/MCPRWiki)
-[![Marle-Rust](https://github-readme-stats.vercel.app/api/pin/?username=kagaries&repo=Marle-Rust&theme=dark)](https://github.com/kagaries/Marle-Rust)
